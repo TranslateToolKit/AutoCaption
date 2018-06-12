@@ -8,7 +8,8 @@
 
   1. [安装 Chrome 浏览](https://link.zhihu.com/?target=https%3A//www.google.com/chrome/browser/desktop/index.html)
   2. [安装 Tampermonkey 扩展](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo%3Fhl%3Den)
-  3. [安装 Subtitledownloader](https://link.zhihu.com/?target=https%3A//greasyfork.org/zh-CN/scripts/5368-youtube-subtitle-downloader-v16)  
+  3. [安装 Subtitledownloader](https://link.zhihu.com/?target=https%3A//greasyfork.org/zh-CN/scripts/5368-youtube-subtitle-downloader-v16)
+  4. [安装 中文字幕 downloader](https://greasyfork.org/zh-CN/scripts/39188-youtube-%E8%87%AA%E5%8A%A8%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E6%88%90%E4%B8%AD%E6%96%87%E5%90%8E%E7%9A%84%E5%AD%97%E5%B9%95%E4%B8%8B%E8%BD%BD-v1)
   
   ![](https://pic4.zhimg.com/80/v2-28b2ae02d59a5e18cf8b9fca1da32147_hd.jpg)
   ![](https://pic2.zhimg.com/80/v2-45ab303fad32246bdc3142b4b491c958_hd.jpg)
